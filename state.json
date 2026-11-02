@@ -1,0 +1,141 @@
+{
+  "last_run": "2026-10-27T02:14:00+00:00",
+  "imported_issues": [
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN Pro 184",
+      "issue_date": "2026-10-20",
+      "gmail_id": "1a15aee31c3be0a2",
+      "imported": "2026-10-21",
+      "rows_imported": 4,
+      "note": "free-preview listings only (paywalled issue): Narratively Memoir Prize, Ori Magazine Spring 2027, Canada's National Observer, Scottish BPOC Writers Network"
+    },
+    {
+      "sender": "freelanceopportunities@mail.beehiiv.com",
+      "newsletter": "Freelance Opportunities!",
+      "issue": "2026-10-16",
+      "issue_title": "Edit a Newsletter, Manage Marketing for Independent Journalists, Edit Golf Videos, Work on Data Journalism Projects for ProPublica",
+      "gmail_id": "1a145780347e0f19",
+      "imported": "2026-10-18",
+      "rows_imported": 126
+    },
+    {
+      "sender": "freelanceopportunities@mail.beehiiv.com",
+      "newsletter": "Freelance Opportunities!",
+      "issue": "2026-10-15",
+      "issue_title": "Seasonal Remote & In-Person Temporary Jobs for Freelancers",
+      "gmail_id": "1a13fa862bf169be",
+      "imported": "2026-10-16",
+      "rows_imported": 20
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN 284",
+      "issue_date": "2026-10-15",
+      "gmail_id": "1a141ba3443da504",
+      "imported": "2026-10-16",
+      "rows_imported": 4,
+      "note": "paywalled issue; 4 free-preview pitch-call listings imported (Defector, MIT Tech Review, Mother Jones, This Magazine)"
+    },
+    {
+      "sender": "freelanceopportunities@mail.beehiiv.com",
+      "newsletter": "Freelance Opportunities!",
+      "issue": "2026-10-09",
+      "issue_title": "Design Instagram Content, Edit Sports Videos, Grow Newsletters, and Work as an Audio Producer",
+      "gmail_id": "1a12227f4defb11b",
+      "imported": "2026-10-12",
+      "rows_imported": 116
+    },
+    {
+      "sender": "freelanceopportunities@mail.beehiiv.com",
+      "newsletter": "Freelance Opportunities!",
+      "issue": "2026-10-03",
+      "issue_title": "Write about Disability Rights, Provide Election Coverage, Edit Sports Videos, Record Audio Diaries, Work on Motion Design for Product Launches",
+      "gmail_id": "1a102fed67d1157b",
+      "imported": "2026-10-03",
+      "rows_imported": 118
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN Pro 183",
+      "issue_date": "2026-10-12",
+      "gmail_id": "1a132184a201b0b7",
+      "imported": "2026-10-13",
+      "rows_imported": 2,
+      "note": "paywalled issue; 2 free-preview listings imported (Dirt, JRNY Travel Magazine)"
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN Pro 182",
+      "issue_date": "2026-10-02",
+      "gmail_id": "1a0fe5c42a832ebe",
+      "imported": "2026-10-03",
+      "rows_imported": 6,
+      "note": "paywalled issue; only the free preview (6 items: Aftermath, Mothership, Eurogamer, 2x Business Insider, GURU conference) was importable"
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN 283",
+      "issue_date": "2026-10-09",
+      "gmail_id": "1a11dfa987ca7af9",
+      "imported": "2026-10-10",
+      "rows_imported": 0,
+      "note": "paywalled issue; 4 free-preview listings already present in DB, deduped to 0 new rows"
+    },
+    {
+      "sender": "freelanceopportunities@mail.beehiiv.com",
+      "newsletter": "Freelance Opportunities!",
+      "issue": "2026-10-23",
+      "issue_title": "Test Kitchen Products, Work with T-Pain, and Edit Travel Photos",
+      "gmail_id": "1a169179d559a362",
+      "imported": "2026-10-24",
+      "rows_imported": 17
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN 285",
+      "issue_date": "2026-10-23",
+      "gmail_id": "1a16af4f53ee2c1e",
+      "imported": "2026-10-24",
+      "rows_imported": 3,
+      "note": "paywalled issue; 3 free-preview listings imported (European 2026 Editorial Grants, Current Affairs, Business Insider)"
+    },
+    {
+      "sender": "thewritersjob@mail.beehiiv.com",
+      "newsletter": "TWJN",
+      "issue": "TWJN Pro 185",
+      "issue_date": "2026-10-26",
+      "gmail_id": "1a17a67358f6cf12",
+      "imported": "2026-10-27",
+      "rows_imported": 2,
+      "note": "paywalled issue; 2 free-preview listings imported (Critical Playground $300/article, Episodes $200)"
+    }
+  ],
+  "latest_seen": {
+    "FFO": "2026-10-23 (latest FFO emails are birthday promos, no new issues)",
+    "TWJN": "TWJN Pro 185 (2026-10-26)"
+  },
+  "job_boards": {
+    "last_check": "2026-10-27",
+    "result": "55 new rows from onlinejobs.ph imported; FreeUp: SKIPPED (no CDP session)",
+    "onlinejobs_ph": "210 cards across 7 keywords, 105 kept after scope filter (dropped 21), 55 new after dedupe vs 1836 existing Notion URLs"
+  },
+  "last_check_note": "2026-10-27 daily run: newsletters — TWJN Pro 185 imported (2 free-preview rows: Critical Playground, Episodes); FFO unchanged (latest emails are birthday promos). Job boards: 55 new rows from onlinejobs.ph; FreeUp skipped (no CDP session).",
+  "failed_runs": [
+    "2026-10-30 10:00 MYT: BLOCKED — Google platform-managed OAuth 'missing assistant ID' error (Gmail read + Notion writes all dead; fix = open Vellum app / assistant platform connect to restore the handshake); python3 also blocked by the non-interactive permission gate, so Source B (scrape_oj_fu.py) could not run. Nothing imported, no dedupe state advanced.",
+    "2026-10-31 10:00 MYT: STILL BLOCKED — same 'missing assistant ID' on every google oauth request (userinfo + messages both fail); Source B flakily gated again. Notification sent (signal 6e50b685). Next interactive turn: re-run both sources once the platform handshake is restored.",
+    "2026-11-01 10:00 MYT: Google OAuth is FIXED (config platform.baseUrl set Oct 31; both senders' newest issues fetched fine: FFO Oct 30 'Earn up to $2,000 Writing About Psychology...' gmail 1a18e8939e8e5782; TWJN 286 gmail 1a189efeb77d47a5). NEW BLOCKER: python3 is permission-gated on non-interactive turns, so neither the newsletter decode/parse (Source A) nor scrape_oj_fu.py (Source B) could run. Nothing imported, dedupe state unchanged. Notification sent (signal 4658f236). NEXT INTERACTIVE TURN: (1) decode both issues (plain part, base64->text), (2) parse + dedupe vs Notion DB, (3) write rows, (4) run 'cd scratch/freelance-list && python3 scrape_oj_fu.py --import', (5) update this state.json with the two new issues + oj_fu results."
+  ],
+  "last_oj_fu_run": {
+    "run_at": "2026-10-26T02:10:13+00:00",
+    "onlinejobs_ph_rows_imported": 4,
+    "freeup": "skipped_no_cdp_session",
+    "note": "newest FFO+TWJN importable issues (Oct 23) already imported; no new newsletter issues"
+  }
+}
